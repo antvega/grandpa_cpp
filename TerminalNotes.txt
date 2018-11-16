@@ -1,0 +1,6 @@
+Open file with certain application:
+	open -a "Atom" ~/Desktop/g_movies.txt
+Run file:
+	g++ -std=c++11 filename.cpp
+Execute file:
+	./a.out
